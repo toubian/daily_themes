@@ -1,0 +1,34 @@
+---
+title: "Daily Themes: Week 6"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# WEEK 6: First Language, First Logic
+
+**Write 250 words each day.**  
+**Due: Sunday, May 18, 2025 at 11:59 PM**
+
+## Day 1 — Monday, May 05, 2025
+
+First Language, First Logic — How did the language you grew up with shape your thinking? Reflect using a specific example.
+
+## Day 2 — Tuesday, May 06, 2025
+
+Autocorrected Thinking — When was the last time you said something you didn’t mean, but that revealed a deeper truth?
+
+## Day 3 — Wednesday, May 07, 2025
+
+Talking to Yourself — Capture an internal monologue from your day. Annotate it with what your brain might have been doing underneath.
+
+## Day 4 — Thursday, May 08, 2025
+
+Syntax Meets Semantics — Analyze a moment where a miscommunication revealed something important about cognition.
+
+## Day 5 — Friday, May 09, 2025
+
+NLP, IRL — Reflect on how interacting with a chatbot or smart assistant affected your thinking about consciousness.
+

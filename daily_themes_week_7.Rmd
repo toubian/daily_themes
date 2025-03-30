@@ -1,0 +1,34 @@
+---
+title: "Daily Themes: Week 7"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# WEEK 7: Cognitive Shortcut
+
+**Write 250 words each day.**  
+**Due: Sunday, May 25, 2025 at 11:59 PM**
+
+## Day 1 — Monday, May 12, 2025
+
+Cognitive Shortcut — Revisit a decision you made too quickly. What mental heuristics kicked in?
+
+## Day 2 — Tuesday, May 13, 2025
+
+The Bug Called Bias — Identify a bias you hold (or held). What conditions reinforced it?
+
+## Day 3 — Wednesday, May 14, 2025
+
+Thinking in Loops — Capture a moment of indecision. Break it down like a decision tree.
+
+## Day 4 — Thursday, May 15, 2025
+
+If-Then Self — Write a list of personal “if-then” rules you unconsciously follow. Where did they come from?
+
+## Day 5 — Friday, May 16, 2025
+
+Crash Recovery — Reflect on a decision that didn’t go your way but taught you something about your own programming.
+

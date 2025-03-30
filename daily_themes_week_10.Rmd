@@ -1,0 +1,34 @@
+---
+title: "Daily Themes: Week 10"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# WEEK 10: Predictive Text
+
+**Write 250 words each day.**  
+**Due: Sunday, June 15, 2025 at 11:59 PM**
+
+## Day 1 — Monday, June 02, 2025
+
+Predictive Text — Imagine your future cognition in 20 years. How will your brain be shaped by machines or new interfaces?
+
+## Day 2 — Tuesday, June 03, 2025
+
+Neuro-Legacy — What thought, insight, or neural pattern would you want to pass down to future generations?
+
+## Day 3 — Wednesday, June 04, 2025
+
+Final Debug — Write about a lingering contradiction in your thinking. Where might it come from, and what needs adjusting?
+
+## Day 4 — Thursday, June 05, 2025
+
+System Integration — What’s one course idea that now feels deeply personal to you? Trace the arc of how it became yours.
+
+## Day 5 — Friday, June 06, 2025
+
+Meta Mode — How has your cognitive process evolved this quarter? Show it narratively through a moment of transformation.
+

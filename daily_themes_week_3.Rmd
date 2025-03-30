@@ -1,0 +1,34 @@
+---
+title: "Daily Themes: Week 3"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# WEEK 3: Control Panel
+
+**Write 250 words each day.**  
+**Due: Sunday, April 27, 2025 at 11:59 PM**
+
+## Day 1 — Monday, April 14, 2025
+
+Control Panel — Write a day-in-the-life piece where you narrate your actions and thoughts as if logged by an internal neural monitor.
+
+## Day 2 — Tuesday, April 15, 2025
+
+Neural Bottleneck — Recall a time you had the answer in your head but couldn’t articulate it. What failed: storage, retrieval, or translation?
+
+## Day 3 — Wednesday, April 16, 2025
+
+The Network Self — Describe yourself as a neural network: what are your strongest weights, your hidden layers, your training data?
+
+## Day 4 — Thursday, April 17, 2025
+
+System Crash — Reflect on a time when your brain “crashed.” What restored it?
+
+## Day 5 — Friday, April 18, 2025
+
+Cognitive Pathfinding — Map how a belief or thought evolved for you over time. Identify synaptic-like leaps or rewiring moments.
+

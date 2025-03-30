@@ -1,0 +1,34 @@
+---
+title: "Daily Themes: Week 2"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# WEEK 2: Mental Architecture
+
+**Write 250 words each day.**  
+**Due: Sunday, April 20, 2025 at 11:59 PM**
+
+## Day 1 — Monday, April 07, 2025
+
+Mental Architecture — Compare your internal thinking patterns to one of the computational models introduced this week.
+
+## Day 2 — Tuesday, April 08, 2025
+
+Processing Speed — Reflect on a time when your brain felt “slow” or “laggy.” How did it feel physically, emotionally, intellectually?
+
+## Day 3 — Wednesday, April 09, 2025
+
+Cognitive Debugging — Identify a recurring mental “glitch” or bias you’ve noticed in yourself. Where might it come from?
+
+## Day 4 — Thursday, April 10, 2025
+
+System Overload — Write about a moment you felt cognitively overwhelmed. What processes failed? What self-corrections emerged?
+
+## Day 5 — Friday, April 11, 2025
+
+Neuroimpression — Choose one course reading and describe the emotion or cognitive shift it caused in you.
+

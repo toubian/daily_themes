@@ -1,0 +1,34 @@
+---
+title: "Daily Themes: Week 4"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# WEEK 4: Indexed by Emotion
+
+**Write 250 words each day.**  
+**Due: Sunday, May 04, 2025 at 11:59 PM**
+
+## Day 1 — Monday, April 21, 2025
+
+Indexed by Emotion — Choose a memory triggered by a sense (smell, sound, taste). Describe the link between stimulus and recall.
+
+## Day 2 — Tuesday, April 22, 2025
+
+Version History — Reflect on a story you’ve told many times. Compare your current telling to an earlier one. What changed?
+
+## Day 3 — Wednesday, April 23, 2025
+
+Memory as Code — Recount a memory as if writing pseudocode. Include variables like “location,” “stimulus,” “response.”
+
+## Day 4 — Thursday, April 24, 2025
+
+Storage Failure — Describe a memory you’re not sure is real. What makes it sticky? What’s missing?
+
+## Day 5 — Friday, April 25, 2025
+
+RAM vs. ROM — What’s something you wish you could forget—and something you’re afraid you’ll lose?
+
